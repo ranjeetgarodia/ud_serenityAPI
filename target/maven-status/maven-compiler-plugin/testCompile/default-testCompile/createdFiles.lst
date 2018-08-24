@@ -1,0 +1,10 @@
+com\testSuite\test\FirstSerenity.class
+com\testSuite\studentInfo\CreateStudentDataDrivenTest.class
+com\testSuite\studentInfo\StudentCRUDTest.class
+com\testSuite\studentInfo\StudentCRUDTest2.class
+com\student\cucumber\serenity\StudentSerenitySteps.class
+com\testSuite\studentInfo\StudentCRUDTestUsingSpecification.class
+com\utils\TestUtils.class
+com\testSuite\studentInfo\TagsTest.class
+com\student\testbase\TestBase.class
+com\utils\ReusableSpecifications.class

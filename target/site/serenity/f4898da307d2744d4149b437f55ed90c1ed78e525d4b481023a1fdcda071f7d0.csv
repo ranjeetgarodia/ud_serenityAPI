@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tags test","provide a 200 statuc code","SUCCESS","2018-08-22T21:21:10.9549266-05:00[America/Chicago]","0.0","0.78"
+"Tags test","provide a 405 status code","SUCCESS","2018-08-22T21:21:11.7347774-05:00[America/Chicago]","0.0","0.65"
