@@ -26,7 +26,7 @@ public class StudentSerenitySteps {
 
 	@Step
 	public ValidatableResponse createStudent(String firstName,String lastName,String email,String programme,
-			ArrayList<String> courses) {
+			List<String> courses) {
 		
 		StudentClass student = new StudentClass();
 		student.setFirstName(firstName);
@@ -147,6 +147,7 @@ public class StudentSerenitySteps {
 		return response ;
 	}
 	
+
 	@Step
 	public void deleteStudentByID(int studentID) {
 		SerenityRest.rest()
@@ -172,6 +173,15 @@ public class StudentSerenitySteps {
 		return response;
 	}
 	
+	
+	@Step
+	public HashMap<String, Object> getStudentInfoByEmailId(String email) {
+		String p1 = "findAll{it.email=='";
+		String p2 = "'}.get(0)";
+		return SerenityRest
+				.rest().given().when().get("/list").then().extract()
+				.path(p1 + email + p2);
+	}
 	
 	
 }

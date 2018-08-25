@@ -4,7 +4,9 @@ D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\utils\TestUtils.j
 D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\student\cucumber\serenity\StudentSerenitySteps.java
 D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\testSuite\studentInfo\CreateStudentDataDrivenTest.java
 D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\utils\ReusableSpecifications.java
+D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\testSuite\studentInfo\Group_TagsTest.java
 D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\testSuite\studentInfo\StudentCRUDTest2.java
-D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\testSuite\studentInfo\TagsTest.java
+D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\student\cucumber\StudentRunner.java
 D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\testSuite\studentInfo\StudentCRUDTest.java
 D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\student\testbase\TestBase.java
+D:\Ranjeet\workspace_oxygen64\ud_serenityAPI\src\test\java\com\student\cucumber\steps\CucumberStudentSteps.java

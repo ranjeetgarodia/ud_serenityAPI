@@ -22,7 +22,7 @@ import net.thucydides.core.annotations.WithTags;
 
 
 @RunWith(SerenityRunner.class)
-public class TagsTest extends TestBase{
+public class Group_TagsTest extends TestBase{
 
 	
 	@WithTags({ 
